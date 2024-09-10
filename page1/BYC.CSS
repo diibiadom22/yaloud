@@ -1,0 +1,113 @@
+body{
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.bycs{
+margin-left: 160px;
+}
+
+.bars{
+    margin-left: 50px;
+    margin: 0 !important;
+    word-spacing: 10px;
+}
+
+.line{
+ line-height: 10px; 
+ word-spacing: 10px; 
+ margin: 0!important;
+}
+
+.head1{
+text-align: center;
+margin-top:110px;
+}
+
+.head2{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.btn-1{
+    width: 150px;
+    margin-left: 550px;
+    height: 40px;
+}
+
+.btn-2{
+    width: 150px;
+    height: 40px;
+    background-color: #fff;
+    color: black;
+}
+
+.boy1{
+    margin-top: 130px;
+    margin-left: 130px;
+}
+
+.girl1{
+    margin-left: 50px;
+}
+
+.boy2{
+    margin-top: 130px;
+    margin-left: 1px;
+}
+
+.boy3 ,.girl2,.boy4{
+    width: 410px;
+    height: 300px;
+    margin-right:100px;
+}
+
+.btn-3{
+    margin-left:650px;
+    width: 150px;
+    height: 40px;
+    background-color: #fff;
+    margin-top: 60px;
+}
+
+.group{
+height: 400px;
+width: 640px;
+margin-left: -10px;
+}
+
+.child{
+    width: 640px;
+    height: 400px;
+}
+
+.waw{
+    margin-top: 250px;
+}
+
+.bab{
+height: 400px;
+width: 640px;
+margin-left: -10px;
+}
+
+.mane{
+    width: 640px;
+    height: 400px;
+}
+  
+.paul{
+margin-left: 300px;
+
+}
+.pan{
+ margin-left: 0px;   
+}
+
+.btn-4{
+    margin-left:650px;
+    width: 150px;
+    height: 40px;
+    background-color: #fff;
+    margin-top: 60px;
+}

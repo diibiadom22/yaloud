@@ -1,0 +1,109 @@
+
+
+picture {
+padding-top: 60px;
+
+}
+
+.mybtn {
+    background: #482BE7;
+    border: 0px solid;
+    color: white;
+    font-size: small;
+}
+
+.logos {
+display: flex;
+gap: 25px;
+margin-top: 8px;
+}
+
+.container p {
+    color: rgba(196, 196, 196, 1);
+}
+
+.container h1 {
+    color: #1E0E62;
+    font-weight: bold;
+}
+
+.logo {
+    margin-top: 60px;
+}
+    
+.row {
+    margin: 0 !important;
+}
+
+.myimg {
+    width: 70%;
+}
+
+.hdd {
+    color: #1E0E62;
+    font-size: 50px;
+}
+
+.para {
+   color: rgb(106, 101, 101); 
+}
+
+.my-btn {
+    border: 2px solid rgb(218, 216, 216);
+    color: #1E0E62;
+}
+
+.row h4 {
+    color: #1E0E62;
+}
+
+.row p {
+    color: rgb(194, 191, 191);
+}
+
+.fix img {
+    width: 75%;
+}
+    
+
+
+@media screen and (max-width: 992px) {
+    .mybtn, .my-btn, .fix img {
+        width: 100%;
+    }
+
+    .myimg {
+        width: 90%;
+    }
+    br {
+        display: none;
+    }
+    .hdd {
+        font-size: 40px;
+    }
+    header {
+        margin-bottom: 30px;
+    }
+    .my-btn {
+        margin-bottom: 20px !important;
+    }
+}
+
+
+
+
+
+
+
+
+
+ 
+
+
+    
+
+
+    
+
+
+
